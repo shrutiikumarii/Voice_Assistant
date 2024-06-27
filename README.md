@@ -1,2 +1,2 @@
 # Voice_Assistant
-Virtual Voice Assistant For Visually Impaired 
+Virtual Voice Assistant For Visually Impaired People
